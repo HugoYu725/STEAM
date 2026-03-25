@@ -90,6 +90,8 @@ If you find this work useful, please consider citing our paper.
 
 ## 📢 Note
 
-We sincerely apologize for the delay in releasing the code. Due to a busy schedule recently, the implementation was not made available until now.
+We sincerely apologize for the delay in releasing the code. Due to a busy schedule recently, the implementation was not made available until now.  
+The training code can be easily adapted from the testing code with minor modifications.
 
-非常抱歉，最近这段时间比较忙，拖到现在才更新代码。
+非常抱歉，最近这段时间比较忙，拖到现在才更新代码。  
+训练代码可以在测试代码的基础上进行简单修改即可。
